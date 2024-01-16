@@ -7,4 +7,4 @@ just figuring it out :)
 
 ### fixes
 bug: `language server not installed or missing from path` 
-fix: `pnpm install -g diagnostic-languageserver
+fix: `pnpm install -g diagnostic-languageserver`
