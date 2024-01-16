@@ -6,4 +6,4 @@ return {
     vim.keymap.set('n', '<leader>ll', builtin.find_files, {})
     vim.keymap.set('n', '<leader>fg', builtin.live_grep, {})
   end
-  }
+}
