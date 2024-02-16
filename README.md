@@ -3,7 +3,7 @@
 just figuring it out :)
 
 ### fixes
-
+* add a mingw flavour to the Path in windows to resolve treesitter error.(`download llvm from mingw website and add it to the path variable`)
 bug: `language server not installed or missing from path`
 fix: `pnpm install -g diagnostic-languageserver`
 
